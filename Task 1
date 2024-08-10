@@ -1,0 +1,21 @@
+/*HTML code for PWD Strength Checker*/
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Strength Checker</title>
+    <link rel="stylesheet" href="pwd.css">
+</head>
+<body>
+    <div class="password-container">
+        <label for="password">Enter your password:</label>
+        <input type="textfield" id="password" placeholder="Password">
+        <div id="strength"></div>
+    </div>
+
+    <script src="pwd.js"></script>
+</body>
+</html>
