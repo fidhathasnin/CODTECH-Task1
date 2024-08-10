@@ -10,7 +10,7 @@
 **Overview of the project**
 
 # Project Title: Password Strength Checker
-![Alt text](relative/path/to/image.png)
+![Alt text](https://github.com/fidhathasnin/CODTECH-Task1/blob/main/pwd.PNG)
 
 ## Description
 The Password Strength Checker is a web-based tool designed to help users create strong and secure passwords. It evaluates the strength of a password based on several criteria, including length, complexity, and uniqueness. The tool provides real-time feedback, guiding users to create passwords that are less susceptible to breaches.
