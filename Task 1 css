@@ -1,0 +1,45 @@
+/* CSS Code for PWD strength Checker */
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.password-container {
+    text-align: center;
+}
+
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+#strength {
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.weak {
+    background-color: #e74c3c; /* red */
+}
+
+.medium {
+    background-color: #f39c12; /* orange */
+}
+
+.strong {
+    background-color: #2ecc71; /* green */
+}
