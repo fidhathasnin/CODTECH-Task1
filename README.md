@@ -5,7 +5,7 @@
 - **ID:** CT04DS5910
 - **Domain:** Cyber Security and Ethical Hacking
 - **Duration:** August 2024 - September 2024
-- **Mentor:** Muzammil
+- **Mentor:** Mohammed Muzammil Ahmed
 
 **Overview of the project**
 
